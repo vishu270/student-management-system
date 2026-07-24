@@ -1,0 +1,44 @@
+[
+    {
+        "name": "vishal",
+        "Rollno": 12,
+        "Gender": "male",
+        "contact_no.": 653727344,
+        "subjects": {
+            "Maths": 98,
+            "Physics": 99,
+            "Python": 79,
+            "Java": 89,
+            "Chemistry": 99
+        },
+        "percentage": 92.80000000000001
+    },
+    {
+        "name": "aditya",
+        "Rollno": 21,
+        "Gender": "male",
+        "contact_no.": 7384387834,
+        "subjects": {
+            "Maths": 78,
+            "Physics": 87,
+            "Python": 99,
+            "Java": 77,
+            "Chemistry": 77
+        },
+        "percentage": 83.6
+    },
+    {
+        "name": "abhi",
+        "Rollno": 43,
+        "Gender": "male",
+        "contact_no.": 834864,
+        "subjects": {
+            "Maths": 98,
+            "Physics": 98,
+            "Python": 97,
+            "Java": 99,
+            "Chemistry": 98
+        },
+        "percentage": 98.0
+    }
+]
